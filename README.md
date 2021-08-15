@@ -1,3 +1,5 @@
+![elasticsearch-azure](https://user-images.githubusercontent.com/38520491/129489539-cff190f0-08c2-46ce-ae32-c4e22e599b9a.png)
+
 ### Cluster health
 ```
 GET _cluster/health/
